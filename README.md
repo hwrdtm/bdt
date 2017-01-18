@@ -1,3 +1,5 @@
+# Binary Decision Tree
+
 Implemented one of the common machine learning algorithms: Decision Trees. This python script will train and test a binary decision tree with the dataset as provided.
 
 In designing this particular decision tree, I simply pick one feature to split on, and determine the threshold value to use in the split criterion for each non-leaf in the tree. The optimal split at each node is found using the information gain criterion. Since we are building a Binary Decision Tree (BDT), I will only do binary splits. Which means, each split should simply determine if the value of a particular feature in the feature vector of a sample is less than or equal to a threshold value or greater than the threshold value. Please note that the features in the provided dataset are continuously valued.
