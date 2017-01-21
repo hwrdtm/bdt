@@ -12,7 +12,7 @@ The code learns a BDT using the training set TrainX.csv and TrainY.csv, and then
 
 Dataset:  
 
-The dataset I use is the Wisconsin Diagnostic Breast Cancer (WDBC) dataset. We have split the date set into training set and test set stored in four csv files. The dataset can be downloaded on the course website. (http://www.cs.princeton.edu/courses/archive/fall16/cos402/ex/ trainX.csv, http://www.cs.princeton.edu/courses/archive/fall16/cos402/ex/ trainY.csv, http://www.cs.princeton.edu/courses/archive/fall16/cos402/ex/ testX.csv, http://www.cs.princeton.edu/courses/archive/fall16/cos402/ex/ testY.csv)
+The dataset I use is the Wisconsin Diagnostic Breast Cancer (WDBC) dataset. We have split the date set into training set and test set stored in four csv files.
 
 TrainX.csv has 455 samples, TrainY.csv has labels for the samples in TrainX.csv. Similarly, TestX.csv has 57 samples, TrainY.csv has labels for the samples in TrainX.csv. Each row in TrainX.csv or TestX.csv representing a sample of biopsied tissue. The tissue for each sample is imaged and 10 characteristics of the nuclei of cells present in each image are characterized. These characteristics are
 
